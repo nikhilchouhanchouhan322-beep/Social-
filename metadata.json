@@ -1,0 +1,8 @@
+
+{
+  "name": "Golden Social - Elite Universe",
+  "description": "A premium social experience with 3D universe exploration, golden aesthetics, and AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
